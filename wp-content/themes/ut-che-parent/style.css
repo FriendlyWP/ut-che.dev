@@ -247,18 +247,19 @@ p {
 
 .ut-austin, .cockrell-school {
     display:block;
+    padding:0 0 6px 0;
 }
 
 .ut-austin {
-    max-width:300px;
-    max-height:35px;
-    float:left;
+    max-width:80px;
+    max-height:18px;
+    float:right;
 }
 
 .cockrell-school {
-    float:right;
-    max-width:122px;
-    max-height:30px;
+    float:left;
+    max-width:230px;
+    max-height:16px;
 }
 
 .parents {
@@ -280,8 +281,9 @@ p {
 .main-head a {
     display:block;
     line-height:.5em;
-    max-width:575px;
-    max-height:32px;
+    max-width:285px;
+    max-height:65px;
+    padding:0 !important;
 }
 
 .current-site {

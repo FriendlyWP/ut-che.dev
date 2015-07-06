@@ -28,8 +28,8 @@
 
 		<header id="header">
             <div class="wrap">
-                <div class="parents"><a href="http://www.utexas.edu/" target="_blank" class="ut-austin"><img src="<?php echo get_template_directory_uri(); ?>/_/images/logo.gif" alt="The University of Texas at Austin" title="The University of Texas at Austin" /></a><a target="_blank" class="cockrell-school" href="http://www.engr.utexas.edu/"><img src="<?php echo get_template_directory_uri(); ?>/_/images/cockrell-logo.gif" alt="Cockrell School of Engineering" title="Cockrell School of Engineering" /></a></div>
-                <div class="main-head clearfix"><a href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/_/images/mcketta-logo.png" alt="McKetta Department of Chemical Engineering" title="McKetta Department of Chemical Engineering" /></a><div class="search">
+                <div class="parents"><a target="_blank" class="cockrell-school" href="http://www.engr.utexas.edu/"><img src="<?php echo get_template_directory_uri(); ?>/_/images/cse-logo.png" alt="Cockrell School of Engineering" title="Cockrell School of Engineering" /></a><a href="http://www.utexas.edu/" target="_blank" class="ut-austin"><img src="<?php echo get_template_directory_uri(); ?>/_/images/ut-texas-logo.png" alt="The University of Texas at Austin" title="The University of Texas at Austin" /></a></div>
+                <div class="main-head clearfix"><a href="<?php echo home_url(); ?>"><img src="<?php bloginfo('template_directory'); ?>/_/images/che-logo-new.png" alt="McKetta Department of Chemical Engineering" title="McKetta Department of Chemical Engineering" /></a><div class="search">
                     <form action="<?php echo home_url(); ?>" id="searchform" method="get">
                         <div>
                             <label for="s" class="screen-reader-text">Search:</label>
